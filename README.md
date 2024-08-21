@@ -7,3 +7,5 @@ Ex2.py: Operações com Arrays
 Ex3.py: Recursividade - Conjectura de Collatz
 
 Ex4.py: Recursividade
+
+Ex5.py: Integral com While vs. Integral com recursão
