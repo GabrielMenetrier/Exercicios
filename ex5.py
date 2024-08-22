@@ -12,7 +12,14 @@ def integral2(f,a,b,dx=0.001):
         i = i+1
     return z
 
+def integral_for(f,a,b,dx=0.001):
+    z = 0
+    for i in range(int((b-a)/dx)):
+        z = z + dx*f(a+i*dx)
+    return z
+
 
 
 print(integral(lambda x: x+x**4+35, 0, 1, 0.01))
 print(integral2(lambda x: x+x**4+35, 0, 1,0.01))
+print(integral_for(lambda x: x+x**4+35, 0, 1,0.01))
