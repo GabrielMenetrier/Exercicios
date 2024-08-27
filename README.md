@@ -9,3 +9,7 @@ Ex3.py: Recursividade - Conjectura de Collatz
 Ex4.py: Recursividade
 
 Ex5.py: Integral com While vs. Integral com recursão
+
+Ex6.py: Multiplicação através de somas consecutivas
+
+Ex7.py: Funções de interação com strings
