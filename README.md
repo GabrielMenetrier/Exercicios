@@ -12,4 +12,6 @@ Ex5.py: Integral com While vs. Integral com recursão
 
 Ex6.py: Multiplicação através de somas consecutivas
 
-Ex7.py: Funções de interação com strings
+Ex7.py: Funções de interação com strings \ Validação de CPF
+
+Ex8 - Ex12: Operações com Listas
